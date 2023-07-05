@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jugginisp">Dot Lines</string>
+
+
+    <string name="admob_app_id">net</string>
+    <string name="admob_banner_id">net</string>
+    <string name="admob_interstitial_id">net</string>
+    <string name="admob_reward_video_id">net</string>
+
+    <string name="more_games_url"></string>
+    <string name="share_message"></string>
+
+
+    <string name="app_id"></string>
+</resources>

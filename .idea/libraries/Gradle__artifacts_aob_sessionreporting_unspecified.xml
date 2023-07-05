@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:aob_sessionreporting:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/aob_sessionreporting/build/.transforms/01b01c45d5cb376b266af9c7ed8b6740/jetified-aob_sessionreporting/res" />
+      <root url="file://$PROJECT_DIR$/aob_sessionreporting/build/.transforms/01b01c45d5cb376b266af9c7ed8b6740/jetified-aob_sessionreporting/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/aob_sessionreporting/build/.transforms/01b01c45d5cb376b266af9c7ed8b6740/jetified-aob_sessionreporting/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
